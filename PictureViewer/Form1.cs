@@ -54,6 +54,6 @@ namespace PictureViewer
                 pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
         }
 
-        // test changes by way of comments
+        // test changes by way of comments ekortz
     }
 }
